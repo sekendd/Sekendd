@@ -1,6 +1,6 @@
 CI4 CRUD Exam — README
 ----------------------------------------
-Student Name  : Clarence Izaac E. Combes
+Student Name  : Rodel II C Torrecampo
 Section       : BSIT 3.7
 Subject       : Advanced Web Development
 Date          : March 6, 2026
@@ -21,7 +21,7 @@ Import the included ci4_exam.sql file:
 ---------------------------------------
 TEST LOGIN CREDENTIALS
 ---------------------------------------
-Email   : combes.izaac@gmail.com
+Email   : rodeltorrecampo16@gmail.com
 Password: 123456
 
 ---------------------------------------
