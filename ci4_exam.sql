@@ -87,7 +87,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `password`, `created_at`) VALUES
-(1, 'clarence combes', 'combes.izaac@gmail.com', '$2y$12$QxYwhQUXT31JwnqWXEqfcuc9.vzyfF4E1q7R26WBWAm3DC95uS/ZK', '2026-03-06 11:18:57');
+(1, 'Rodel II C Torrecampo', 'rodeltorrecampo16@gmail.com', '$2y$12$QxYwhQUXT31JwnqWXEqfcuc9.vzyfF4E1q7R26WBWAm3DC95uS/ZK', '2026-03-06 11:18:57');
 
 --
 -- Indexes for dumped tables
